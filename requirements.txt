@@ -1,0 +1,14 @@
+ipykernel
+
+pandas
+numpy
+matplotlib
+scikit-learn
+
+torch
+torchvision
+torchaudio
+
+tensorflow
+
+binance
